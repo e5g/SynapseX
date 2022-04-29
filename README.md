@@ -24,3 +24,6 @@ open it with WinRar, and now you can scroll and find the file named Synapse X.ex
 **YOU MUST ALREADY HAVE ROBLOX OPEN FOR IT TO WORK OR ELSE IT HAS NOTHING TO ATTACH TO**
 
 **You must also have git installed (for what I hope is an obvious reason)**
+
+
+# To look through the code open and extract the rar file 
